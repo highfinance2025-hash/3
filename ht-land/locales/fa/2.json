@@ -1,0 +1,41 @@
+{
+  "locale": "fa-IR",
+  "language": "fa",
+  "dir": "rtl",
+  "currency": "IRR",
+  "currencySymbol": "تومان",
+  "currencyDisplay": "symbol",
+  "timeZone": "Asia/Tehran",
+  "dateFormat": {
+    "short": "numeric",
+    "medium": "short",
+    "long": "long"
+  },
+  "numberFormat": {
+    "decimal": "fa-IR",
+    "currency": {
+      "style": "currency",
+      "currency": "IRR",
+      "currencyDisplay": "name"
+    }
+  },
+  "texts": {
+    "addToCart": "افزودن به سبد خرید",
+    "addedToCart": "به سبد خرید اضافه شد",
+    "wishlist": "علاقه‌مندی‌ها",
+    "cart": "سبد خرید",
+    "offline": "شما آفلاین هستید",
+    "retry": "تلاش مجدد",
+    "searchPlaceholder": "جستجوی محصول..."
+  },
+  "priceFormat": "fa-IR", 
+  "relativeTime": {
+    "now": "همین الان",
+    "minute": "دقیقه",
+    "hour": "ساعت",
+    "day": "روز",
+    "week": "هفته",
+    "month": "ماه",
+    "year": "سال"
+  }
+}

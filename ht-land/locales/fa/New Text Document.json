@@ -1,0 +1,28 @@
+{
+    "common": {
+        "home": "خانه",
+        "products": "محصولات",
+        "categories": "دسته‌بندی‌ها",
+        "cart": "سبد خرید",
+        "wishlist": "علاقه‌مندی‌ها",
+        "search": "جستجو",
+        "login": "ورود",
+        "logout": "خروج"
+    },
+    "product": {
+        "addToCart": "افزودن به سبد",
+        "addToWishlist": "افزودن به علاقه‌مندی‌ها",
+        "price": "قیمت",
+        "inStock": "موجود در انبار",
+        "outOfStock": "ناموجود",
+        "description": "توضیحات",
+        "features": "ویژگی‌ها"
+    },
+    "cart": {
+        "yourCart": "سبد خرید شما",
+        "emptyCart": "سبد خرید شما خالی است",
+        "total": "جمع کل",
+        "checkout": "تکمیل سفارش",
+        "continueShopping": "ادامه خرید"
+    }
+}

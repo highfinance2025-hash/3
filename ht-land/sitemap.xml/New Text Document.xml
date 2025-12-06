@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /api/products.json
+Allow: /sitemap.xml
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cart/
+Disallow: /checkout/
+
+Sitemap: https://healthy-taste.ir/sitemap.xml
+Host: https://healthy-taste.ir
+
+# Crawl-delay: 2
